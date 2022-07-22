@@ -4,7 +4,7 @@
 
 ### **Hi, I am Nuzy 🤖**
 
-### Contact Me [<img align="left" alt="halvi | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/38DzZqkG8e)
+### Contact Me [<img align="left" alt="nuzy | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/38DzZqkG8e)
 
 ## I'm 14 years old and I'm a game cheat developer and I do reverse engineering!
 -   👨‍💻 C# / C++ / Python/ HTML5/ CSS3
