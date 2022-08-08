@@ -4,13 +4,10 @@
 
 ### **Hi, I am Nuzy 🤖**
 
-### Contact Me [<img align="left" alt="nuzy | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/38DzZqkG8e)
-
-## I'm 14 years old and I'm a game cheat developer and I do reverse engineering!
+## I'm 14 years old and I'm a web developer and software engineer
 -   👨‍💻 C# / C++ / Python/ HTML5/ CSS3
 -   :pencil2: Predestined to win.
--   👻 I am dev of cheat
--   :thought_balloon: If you need me, contact me on discord: nuzy#0445
+-   :thought_balloon: If you need me, contact me on discord: nuzy#0001
 ---
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
