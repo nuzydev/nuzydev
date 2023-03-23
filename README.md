@@ -5,7 +5,7 @@
 ### **Hi, I am Nuzy 🤖**
 
 ## I'm 15 years old and I'm a web developer and software engineer
--   👨‍💻 C# / C++ / Python / HTML5 / CSS3
+-   👨‍💻 C# / C++ / Python / Js / Ruby / Rust
 -   :pencil2: Predestined to win.
 -   :thought_balloon: If you need me, contact me on discord: nuzy#0001
 ---
