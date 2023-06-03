@@ -1,5 +1,3 @@
-# Perfil do Hacker Nuzy
-
 ## Introdução
 
 Salve, meus amigos digitais! Sou nuzy. Navego nas profundezas da rede, desafiando os sistemas e explorando as fronteiras da segurança cibernética. Meu objetivo é revelar as falhas dos sistemas e inspirar a busca por soluções mais robustas.
