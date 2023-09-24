@@ -10,25 +10,15 @@ Salve, meus amigos digitais! Sou nuzy. Navego nas profundezas da rede, desafiand
 - Análise de malware
 - Quebra de criptografia
 - Manipulação de sistemas
-- Domínio de linguagens de programação: Python, C++, JavaScript
-
-## Projetos Destacados
-
-- **Projeto X**: Desenvolvimento de uma ferramenta de hacking ético que automatiza testes de penetração e identifica vulnerabilidades em redes e sistemas.
-- **Projeto Y**: Criação de um ransomware educacional para demonstrar os perigos do sequestro de dados e promover a conscientização em segurança cibernética.
-- **Projeto Z**: Participação em uma equipe de hackers éticos, realizando testes de invasão em grandes empresas para identificar e corrigir falhas de segurança.
-
-## Contribuições
-
-- **Nome do Projeto**: Identificação de falhas de segurança em um aplicativo de mensagens populares e fornecimento de recomendações para melhorar a proteção dos usuários.
-- **Nome do Projeto**: Análise e desativação de um malware sofisticado, protegendo milhares de dispositivos de usuários.
+- Domínio de linguagens de programação: C/C++, JavaScript, Python 
 
 ## Contato
 
 Se você quiser discutir sobre hacking, compartilhar técnicas ou até mesmo propor colaborações em projetos emocionantes, entre em contato comigo pelos seguintes meios:
 
-- E-mail: nuzyohacker@gmail.com
-- Instagram: @nuzyohacker
+- E-mail: nuzyhacking@gmail.com
+- Instagram: @nuzydev
+- Discord: nuzydev#0
 
 Vamos quebrar barreiras, explorar limites e desvendar o lado oculto da tecnologia!
 
